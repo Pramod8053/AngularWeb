@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPI", "BookAPI\BookAPI.csproj", "{E6EF4A10-2F96-4C90-940B-16F11D04A094}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLibrary", "EntityLibrary\EntityLibrary.csproj", "{B38A2218-2DBC-456A-AF76-2F96E09F8D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAngularWeb", "BookAngularWeb\BookAngularWeb.csproj", "{F4795D77-BCC3-43EF-A90F-983030B6EEB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E6EF4A10-2F96-4C90-940B-16F11D04A094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6EF4A10-2F96-4C90-940B-16F11D04A094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6EF4A10-2F96-4C90-940B-16F11D04A094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38A2218-2DBC-456A-AF76-2F96E09F8D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38A2218-2DBC-456A-AF76-2F96E09F8D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38A2218-2DBC-456A-AF76-2F96E09F8D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38A2218-2DBC-456A-AF76-2F96E09F8D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4795D77-BCC3-43EF-A90F-983030B6EEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4795D77-BCC3-43EF-A90F-983030B6EEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4795D77-BCC3-43EF-A90F-983030B6EEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4795D77-BCC3-43EF-A90F-983030B6EEB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

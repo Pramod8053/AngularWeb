@@ -19,3 +19,16 @@ D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.Razo
 D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.dll
 D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.pdb
 D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.genruntimeconfig.cache
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\EntityLibrary.dll
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\bin\Debug\netcoreapp3.1\EntityLibrary.pdb
+D:\Pramod2085\AngularWeb\AngularWeb\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csproj.CopyComplete
