@@ -8,10 +8,12 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 
+
 namespace BookAPI.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+ 
     public class BookApiController : ControllerBase
     {
         private readonly IBookRepo repo;
@@ -77,6 +79,10 @@ namespace BookAPI.Controllers
             return Result;
 
         }
-        
+        [HttpGet]
+        public string Hello()
+        {
+            return "Wel Come To Book info";
+        }
     }
 }

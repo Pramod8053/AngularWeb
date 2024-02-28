@@ -2,7 +2,90 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="text-center" data-ng-controller="myCtrl">
+    <p>Book Information</p>
+    <input type="text" ng-model="name" />
+    <hr />
+    <table>
+        <tr>
+            <td>
+                Sl.
+            </td>
+            <td>
+                Book Name
+            </td>
+            <td>
+                Author
+            </td>
+            <td>
+                Price
+            </td>
+            <td colspan="2">
+                Action
+            </td>
+        </tr>
+        <tr ng-repear="sub in books">
+            <td>
+                {{sub.id}}
+            </td>
+            <td>
+                
+            </td>
+            <td>
+              
+            </td>
+            <td>
+               
+            </td>
+            <td>Edit</td>
+            <td>Delete</td>
+        </tr>
+    </table>
+    {{books}}
+    {{msg}}
+    {{rmsg}}
+<p>B Error {{Berror}}</p>
 </div>
+<script>
+    var app = angular.module("myApp",[]);
+    app.controller("myCtrl", function ($scope, BookService) {
+        $scope.name = "WelCome";
+        Getmsg(); getReplay(); GetAll();
+        function GetAll() {
+            var serCall = BookService.GetBookList();
+           
+            serCall.then(function (response) {
+              
+                $scope.books = response.data;
+            },function (error) {
+                $scope.Berror = error;
+                })
+        }
+        function Getmsg() {
+            var callSer = BookService.Hello();
+            callSer.then(function (response) {
+               
+                $scope.msg = response.data;
+            }, function (error) {
+               // $scope.msg =error;
+            })
+        }
+        function getReplay() {
+            var Callback = BookService.replay();
+            Callback.then(function (d) {
+                $scope.rmsg = d.data;
+            })
+        }
+    });
+    app.service("BookService", function ($http) {
+        this.GetBookList = function () {
+            return $http.get("https://localhost:44303/api/bookapi/booklist");
+        }
+        this.Hello = function () {
+            return $http.get("https://localhost:44303/api/bookapi/hello");
+        }
+        this.replay = function () {
+            return $http.get("/home/GetMsg");
+        }
+    });
+</script>

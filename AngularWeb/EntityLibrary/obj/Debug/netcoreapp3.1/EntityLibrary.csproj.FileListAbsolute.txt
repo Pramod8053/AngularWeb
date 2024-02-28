@@ -1,7 +1,6 @@
 D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\bin\Debug\netcoreapp3.1\EntityLibrary.deps.json
 D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\bin\Debug\netcoreapp3.1\EntityLibrary.dll
 D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\bin\Debug\netcoreapp3.1\EntityLibrary.pdb
-D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\obj\Debug\netcoreapp3.1\EntityLibrary.csproj.AssemblyReference.cache
 D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\obj\Debug\netcoreapp3.1\EntityLibrary.GeneratedMSBuildEditorConfig.editorconfig
 D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\obj\Debug\netcoreapp3.1\EntityLibrary.AssemblyInfoInputs.cache
 D:\Pramod2085\AngularWeb\AngularWeb\EntityLibrary\obj\Debug\netcoreapp3.1\EntityLibrary.AssemblyInfo.cs

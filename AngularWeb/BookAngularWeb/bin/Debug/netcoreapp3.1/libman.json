@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "angular.js@1.8.3",
+      "destination": "wwwroot/lib/angular/"
+    },
+    {
+      "library": "angular-resource@1.8.3",
+      "destination": "wwwroot/lib/angular/"
+    }
+  ]
+}

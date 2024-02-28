@@ -17,7 +17,11 @@ namespace BookAngularWeb.Controllers
         {
             _logger = logger;
         }
-
+        [HttpGet]
+        public IActionResult GetMsg()
+        {
+            return Json("Hello from backend");
+        }
         public IActionResult Index()
         {
             return View();

@@ -1,5 +1,6 @@
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\libman.json
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookAngularWeb.exe
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookAngularWeb.deps.json
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookAngularWeb.runtimeconfig.json
@@ -8,7 +9,6 @@ D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookA
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookAngularWeb.pdb
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookAngularWeb.Views.dll
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\bin\Debug\netcoreapp3.1\BookAngularWeb.Views.pdb
-D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.csproj.AssemblyReference.cache
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.GeneratedMSBuildEditorConfig.editorconfig
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.AssemblyInfoInputs.cache
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.AssemblyInfo.cs
@@ -36,3 +36,4 @@ D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookA
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.pdb
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.genruntimeconfig.cache
 D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.csproj.CopyComplete
+D:\Pramod2085\AngularWeb\AngularWeb\BookAngularWeb\obj\Debug\netcoreapp3.1\BookAngularWeb.csproj.AssemblyReference.cache
